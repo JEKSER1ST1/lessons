@@ -1,0 +1,38 @@
+body {
+    background-color: darkgray;
+}
+h1 {font-size: 80px; color: black;}
+h2 {
+    font-size: 40; color: gold ;
+}
+
+h3 {
+    color: gold;
+
+}
+p {
+    font-size: 20px ;
+}
+li {
+    color: purple; font-size: 28px;
+}
+ol {
+    color: teal; font-size: 35px;
+}
+a {
+        font-size: 30px; text-decoration: none;
+    }
+
+    img {border: 3px solid black;
+        margin: auto;
+        display: block;
+        border-radius: 400px;
+    }
+h4 {
+    font-size: 29px;
+}        
+iframe {
+    width: 800px;
+    height: 500px;
+}
+
