@@ -1,0 +1,19 @@
+.head {
+    background-color: chartreuse;
+    height: 200px;
+    margin-bottom: 10px;
+}
+.sidybar {
+    background-color: darkturquoise;
+    height: 500px;
+    margin-bottom: 10px;
+}
+.content {
+    background-color: maroon;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.footer {
+    background-color: gold;
+    height: 200px;
+}
