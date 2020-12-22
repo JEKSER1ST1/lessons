@@ -1,0 +1,17 @@
+body{
+    background-color: darkgray;
+}
+h1 {
+    font-size: 120px;color: forestgreen; 
+ }
+h2 {
+    font-size: 75px;color: indigo;
+}
+li { 
+    color: lightsalmon;font-size: 50px; 
+}
+img {
+    border: 3px solid black ;
+    margin: auto;
+    display: block;
+}
