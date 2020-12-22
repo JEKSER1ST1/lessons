@@ -1,0 +1,43 @@
+.head {
+    background-color: slategrey;
+    height: 200px;
+    margin-bottom: 10px;
+}
+.sidebar-2 {
+    background-color: yellow;
+    height: 500px;
+    margin-bottom: 10px ;
+    width:  15%;
+    float: left;
+    
+}
+.content {
+    font-size: 24px ;
+    background-color: dimgray;
+    height: 500px;
+    margin-bottom: 10px ;
+    width: 69.45%;
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px
+}
+.footer {
+    background-color: lavender;
+    height: 400px;
+    width: 1900px;
+    margin-top: 10px;
+
+}
+.u:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.sidebar-1 {
+    background-color: yellow;
+    height: 500px;
+    margin-bottom: 10px ;
+    width:  15%;
+    float: left;
+}
