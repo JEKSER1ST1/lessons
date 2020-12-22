@@ -1,0 +1,25 @@
+ul {
+    font-size: 35px;
+    background-color: rgba(18, 101, 209, 0.46);
+}
+li {
+    font-size: 20px;
+
+}
+li:link {
+    color :red
+}
+li :hover {
+    color :gold;
+    height: 11px;
+
+}
+li:visited {
+    color : green
+}
+li:first-child {
+
+}
+ol {
+    background-color: rgb(255, 247, 0);
+}

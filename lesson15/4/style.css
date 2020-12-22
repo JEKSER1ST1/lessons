@@ -1,0 +1,88 @@
+.box1 {
+    text-decoration: none;
+    background-color: gold;
+    width: 200px;
+    height: 200px;
+    transition: all 0.8s;
+    margin-left: 100px;
+    overflow: scroll;
+    font-size: 15px;
+    
+}
+.box1:hover {
+    background-color: green;
+    font-size: 25px;
+    height: 400px;
+    width: 400px;
+     
+}
+
+.box2 {
+    text-decoration: none;
+    background-color: gold;
+    width: 200px;
+    height: 200px;
+    transition: all 0.8s;
+    margin-left: 200px;
+    overflow: scroll;
+    font-size: 15px;
+}
+.box2:hover {
+    background-color: red;
+    font-size: 30px;
+    height: 400px;
+    width: 400px;
+    font-size: 30px;
+
+}
+.box3 {
+    text-decoration: none;
+    background-color: darkorange;
+    width: 200px;
+    height: 200px;
+    transition: all 0.8s;
+    margin-left: 300px;
+    overflow: scroll;
+    font-size: 15px;
+}
+.box3:hover {
+    background-color: darkturquoise;
+    font-size: 30px;
+    height: 400px;
+    width: 400px;
+    font-size: 20px;
+}
+.box4 {
+    text-decoration: none;
+    background-color: hotpink;
+    width: 200px;
+    height: 200px;
+    transition: all 0.8s;
+    margin-left: 400px;
+    overflow: scroll;
+    font-size: 15px;
+    }
+.box4:hover {
+    background-color: salmon;
+    font-size: 30px;
+    height: 400px;
+    width: 400px;
+    font-size: 20px;
+}    
+.box5 {
+    text-decoration: none;
+    background-color: gold;
+    width: 200px;
+    height: 200px;
+    transition: all 0.8s;
+    margin-left: 500px;
+    overflow: scroll;
+    font-size: 15px;
+}  
+.box5:hover {
+    background-color: green;
+    font-size: 30px;
+    height: 400px;
+    width: 400px;
+    font-size: 20px;
+}

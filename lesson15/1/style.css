@@ -1,0 +1,227 @@
+.a {
+    text-decoration: none;
+    font-size:  50px;
+    transition:  all 0.8s;
+    box-shadow: 1px 1px 10px red;
+    margin-top: 20px;
+
+}
+.a:link {
+    color: gold;
+}
+.a :hover {
+    color: lightcoral;
+    font-size: 75px;
+
+}
+.a:active {
+    border: 3px solid lightcoral;
+    color: lightgreen;
+
+}
+
+
+.b {
+    text-decoration: none;
+    font-size:  50px;
+    transition:  all 0.8s;
+    box-shadow: 1px 1px 10px gold;
+    margin-top: 20px;
+
+}
+.b:link {
+    color: black
+}
+.b :hover {
+    color: lightcoral;
+    font-size: 75px;
+
+}
+.b:active {
+    border: 3px solid black;
+    color:  darkblue;
+
+}
+.c {
+    text-decoration: none;
+    font-size:  100px;
+    transition:  all 0.8s;
+    box-shadow: 1px 1px 10px yellowgreen;
+    margin-top: 20px;
+
+}
+.c:link {
+    color: black
+}
+.c :hover {
+    color: lavenderblush;
+    font-size: 75px;
+
+}
+.c:active {
+    border: 3px solid blue;
+    color: darkgray;
+
+}
+.d {
+    text-decoration: none;
+    font-size:  30px;
+    transition:  all 0.8s;
+    box-shadow: 1px 1px 10px gray;
+    margin-top: 20px;
+    margin-right: 30px;
+
+}
+.d:link {
+    color: black
+}
+.d :hover {
+    color: lightcoral;
+    font-size: 75px;
+
+}
+.d:active {
+    border: 3px solid lightcoral;
+    color: fuchsia;
+
+}
+
+
+
+.e {
+    text-decoration: none;
+    font-size:  70px;
+    transition:  all 0.8s;
+    box-shadow: 1px 1px 10px deeppink;
+    margin-top: 20px;
+
+}
+.e:link {
+    color: black
+}
+.e  :hover {
+    color: lightcoral;
+    font-size: 75px;
+
+}
+.e :active {
+    border: 3px solid lightcoral;
+    color: gold;
+
+}
+
+
+.f {
+    text-decoration: none;
+    font-size:  90px;
+    transition:  all 0.8s;
+    box-shadow: 1px 1px 10px mediumspringgreen;
+    margin-top: 20px;
+
+}
+.f:link {
+    color: black
+}
+.f :hover {
+    color: lightcoral;
+    font-size: 75px;
+
+}
+.f:active {
+    border: 3px solid lightcoral;
+    color: firebrick;
+
+}
+
+
+
+.g {
+    text-decoration: none;
+    font-size:  80px;
+    transition:  all 0.8s;
+    box-shadow: 1px 1px 10px  aqua ;
+    margin-top: 20px;
+
+}
+.g:link {
+    color: black
+}
+.g :hover {
+    color: lightcoral;
+    font-size: 75px;
+
+}
+.g:active {
+    border: 3px solid lightcoral;
+    color: greenyellow;
+
+}
+
+
+
+.h {
+    text-decoration: none;
+    font-size:  90px;
+    transition:  all 0.8s;
+    box-shadow: 1px 1px 10px hotpink;
+    margin-top: 20px;
+
+}
+.h:link {
+    color: black
+}
+.h :hover {
+    color: lightcoral;
+    font-size: 75px;
+
+}
+.h:active {
+    border: 3px solid lightcoral;
+    color: blueviolet;
+
+}
+
+
+.i {
+    text-decoration: none;
+    font-size:  40px;
+    transition:  all 0.8s;
+    box-shadow: 1px 1px 10px teal;
+    margin-top: 20px;
+    margin-right: 150px;
+}
+.i:link {
+    color: black
+}
+.i :hover {
+    color: lightcoral;
+    font-size: 75px;
+
+}
+.i :active {
+    border: 3px solid lightcoral;
+    color: gold;
+
+}
+
+.k {
+    text-decoration: none;
+    font-size:  40px;
+    transition:  all 0.8s;
+    box-shadow: 1px 1px 10px firebrick;
+    margin-top: 20px;
+
+}
+.k :link {
+    color: black
+}
+.k :hover {
+    color: lightcoral;
+    font-size: 75px;
+
+}
+.k :active {
+    border: 3px solid lightcoral;
+    color: firebrick;
+
+}
