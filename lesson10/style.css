@@ -1,0 +1,98 @@
+.A  {
+    background-color: red;
+    height: 300px;
+    width: 600px;
+
+}
+.z{
+    background-color:green;
+    height: 100px;
+    width: 600px;
+
+}
+.x {
+    background-color:fuchsia;
+    height: 100px;
+    width: 600px;
+
+}
+.c {
+    background-color: blue;
+    height: 100px;
+    width: 600px;
+
+}
+
+.B {
+    background-color: green ;
+    height: 300px;
+    width: 600px;
+    margin-top: 30px;
+}
+.g1 {
+    display: flex;
+}
+.h1 {
+    height: 100px;
+    width: 600px;
+    background-color: springgreen;
+
+}
+.h2 {
+    height: 100px;
+    width: 600px;
+    background-color: yellow
+    
+}
+.h3 {
+    height: 100px;
+    width: 600px;
+    background-color:blue;
+}
+.g2 {
+    height: 100px;
+    width: 600px;
+    background-color:green
+}
+.g3 {
+    display: flex;
+}
+.k1 {
+    height: 100px;
+    width: 300px;
+    background-color: gray ;
+}
+.k2 {
+    height: 100px;
+    width: 300px;
+    background-color: pink;
+}
+.C {
+    height: 300px;
+    width: 600px;
+    background-color: blueviolet;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.l1 {
+    margin-top: 40px;
+    background-color : rgb(255, 217, 0);
+    height: 150px;
+    width: 100px;
+
+    
+}
+.l2 {
+    margin-top: 40px;
+    background-color: cyan;
+    height: 150px;
+    width: 100px;
+}  
+.l3 {
+    margin-top: 40px;
+    background-color: brown;
+    height: 150px;
+    width: 100px;
+}
