@@ -1,0 +1,141 @@
+body {
+    background-color: brown;
+}
+.box {
+    background-color: rgb(202, 66, 114);
+    height: 300px;
+    width: 300px;
+    margin: auto auto;
+    margin-top: 300px;
+    border: 3px solid black;
+    border-radius: 900px ;
+    display: block;
+
+}
+.hears {
+    display: flex;
+    height: 50px;
+    width: 300px;
+    margin-top: 40px;
+    justify-content: space-around;
+
+}
+.hear1 {
+    background-color: rgb(187, 112, 175);
+    width: 100px;
+    height: 100px ;
+    border-radius: 90px ;
+    border : 2px solid black   ;
+    position: relative ;
+    bottom: 100px;
+    z-index: -1;
+
+}
+.h1 {
+    background-color: rgb(146, 45, 126);
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 50px ;
+    border : 2px solid black   ;
+    margin : auto ;
+    margin-top: 10px;
+
+    
+}
+.hear2 {
+    background-color: rgb(187, 112, 175);
+
+    width: 100px;
+    height: 100px ;
+    border-radius: 90px ;
+    border : 2px solid black   ;
+    position: relative ;
+    bottom: 100px;
+    z-index: -1;
+}
+.h2 {
+    background-color: rgb(146, 45, 126);
+    width: 50px;
+    height: 50px;
+    border-radius: 50px ;
+    border : 2px solid black   ;
+    margin : auto ;
+    margin-top: 10px;
+}
+
+.eyes {
+    height: 50px;
+    width: 300px;
+    display: block;
+    justify-content: space-around;
+    display: flex;
+    margin: auto;
+    
+}
+.eye1 {
+    height: 50px;
+    width: 30px;
+    background-color: black;
+    position: relative ;
+    border-radius: 100%;
+    box-shadow: 1px 2px 10px black;
+}
+.eye1_1 {
+    height: 25px;
+    width: 15px;
+    background-color: white;
+    position: relative ;
+    border-radius: 100%;
+
+    
+}
+.eye2 {
+    height: 50px;
+    width: 30px;
+    background-color: black;
+    border-radius: 100%;
+    box-shadow: 1px 2px 10px black;
+
+}
+.eye2_2 {
+    height: 25px;
+    width: 15px;
+    background-color: white;
+    position: relative ;
+    border-radius: 100%;
+
+}
+
+.noys {
+    height: 100px;
+    width: 120px;
+    justify-content: space-evenly;
+    display: flex;
+    margin: auto;
+    
+    border-radius: 90px;
+    background-color: rgb(245, 80, 176);
+    
+}
+.noys1 {
+    margin-top: 10px  ;
+    height: 55px;
+    width: 35px;
+    background-color: black ;
+    border-radius: 80%;
+    box-shadow: 1px 2px 10px black;
+
+}
+.noys2 {
+    margin-top: 10px  ;
+    height: 55px;
+    width: 35px;
+    border-radius: 80%;
+    background-color: black ;
+    box-shadow: 1px 2px 10px black;
+}
+
+.mouse {
+    
+}
