@@ -1,0 +1,61 @@
+body{
+    margin 0 ;
+    padding 0 ;
+}
+    .box {
+    width: 100%;
+    background-color: brown;
+}
+    div ul {
+    list-style: none;
+    background-color: black;
+    position: relative;
+    color: white;
+}
+    a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    transition: all 1s;
+}
+    div > ul > li {
+    float: left;
+}
+    div ul::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+    div ul li a {
+    display: inline-block ;
+    padding: 10px 50px;
+    width: 100px;
+    text-decoration: none;
+    }
+    div ul li a:hover {
+    background-color: #950740;
+    }
+    div ul ul {
+    display: none;
+    position: absolute;
+    }
+    div li:hover > ul {
+    display: inline-block;
+    }
+    @media screen and (max-width: 500px) {
+    div li:hover > ul {
+    display: flex;
+    }
+    .box {
+    width: 40%;
+    }
+    div ul li a {
+    font-size: 10px;
+    width: 10px;
+    display: flex-end ;
+    }
+    div ul li a {
+    font-size: 15px;
+    }
+    }
+    
