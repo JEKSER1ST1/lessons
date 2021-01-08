@@ -1,0 +1,58 @@
+.fab {
+    color: white;
+    font-size: 100px;
+}
+
+ body {
+    background-color: rgba(89, 126, 140, 0.227);
+ }
+
+.box-box {
+    border: 5px solid rgb(0, 187, 255) ;
+   font-family: 'Playfair Display';
+   color: #605756;
+   margin: auto;
+   width: 440px;
+   height: 570px;
+    background-color: rgb(255, 255, 255);
+}
+input:link {
+    background-color: brown;
+}
+input {
+    height: 30px;
+    width: 290px;
+}
+.name{
+    width: 194px;
+    height: 42px;
+}
+.famale{
+    width: 194px;
+    height: 42px;
+}
+.mob{
+    width: 412px;
+    
+}
+.pass{
+    width: 412px;
+}
+.dr{
+    font-size: 10px;
+}
+.den{
+    width: 125px;
+    height: 36px;
+}
+.mes{
+    width: 125px;
+    height: 36px;
+}
+.god{
+    width: 125px;
+    height: 36px;
+}
+p {
+    font-size: 15px;
+}

@@ -1,0 +1,51 @@
+body {
+    background-color: rgba(9, 9, 157, 0.097);
+}
+
+
+.fab{
+    font-size: 40px;
+    background-color: darkgoldenrod;
+}
+.fdset1{
+    margin: auto;
+    width: 440px;
+    height: 460px;
+    background-color: rgba(17, 17, 46, 0.481);
+    
+}
+.name{
+    width: 440px;
+    height: 42px;
+}
+.famale{
+    width: 440px;
+    height: 42px;
+}
+
+.pass{
+    width: 440px;
+    height: 42px;
+}
+
+.dr{
+    font-size: 10px;
+}
+.den{
+    width: 125px;
+    height: 36px;
+}
+.mes{
+    width: 125px;
+    height: 36px;
+}
+.god{
+    width: 125px;
+    height: 36px;
+}
+.button{
+    margin-left: 150px;
+    background-color:rgba(6, 5, 12, 0.775);
+}
+
+
