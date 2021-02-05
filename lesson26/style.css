@@ -1,0 +1,29 @@
+.box-box {
+    margin-left: 513px;
+}
+.blue {
+    height: 264px;
+    width: 1464px;
+    background-color: blue;
+    margin-bottom: 10px;
+    margin-top: 23px;
+}
+.red {
+    height: 533px ;
+    width: 254px ;
+    background-color: red;
+    margin-top: 9px;
+
+}
+.green {
+    height: 532px;
+    width:  1185px;
+    background-color: green;
+    margin-top: 9px;
+    margin-left: 25px;
+
+
+}
+.box-2 {
+    display: flex;
+}
